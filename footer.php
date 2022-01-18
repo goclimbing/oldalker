@@ -20,7 +20,7 @@ namespace WP_Rig\WP_Rig;
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-test
+
 </body>
 
 </html>
