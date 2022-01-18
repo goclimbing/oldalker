@@ -20,7 +20,8 @@ namespace WP_Rig\WP_Rig;
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-trait_exists
+
+
 </body>
 
 </html>
